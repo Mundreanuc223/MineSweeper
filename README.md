@@ -1,2 +1,2 @@
 # MineSweeper
-MineSweeper game in c++
+MineSweeper game in c++ utilizing the SFML library. 
